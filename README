@@ -1,0 +1,1 @@
+This program is a simple file system that resembles a unix file. It supports inodes, indirect blocks, and data blocks. The disk file stores information needed to maintain the file system. 
